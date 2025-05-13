@@ -2,7 +2,6 @@
 
 - 💡 1/8 - Sistemas de Informação, Unisul - Pedra Branca
 - 🖥️ Estudando Java
-  
 ##
  
 <div>
