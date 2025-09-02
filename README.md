@@ -1,7 +1,7 @@
 ## Olá! Eu sou Adrian Hermes
 
 - 💡 2/8 - Sistemas de Informação, Unisul - Pedra Branca
-- 🖥️ Estudando Java
+- 🖥️ Estudando
 ##
  
 <div>
