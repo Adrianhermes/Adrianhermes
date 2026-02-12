@@ -1,6 +1,6 @@
 ## Olá! Eu sou Adrian Hermes
 
-- 💡 2/8 - Sistemas de Informação, Unisul - Pedra Branca
+- 💡 3/8 - Sistemas de Informação, Unisul - Pedra Branca
 - 🖥️ Estudando
 ##
  
