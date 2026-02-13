@@ -2,6 +2,7 @@
 
 - 💡 3/8 - Sistemas de Informação, Unisul - Pedra Branca
 - 🖥️ Estudando
+- Sou Desenvolvedor Front-End - Essentia. 
 ##
  
 <div>
