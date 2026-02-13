@@ -1,8 +1,7 @@
 ## Olá! Eu sou Adrian Hermes
 
 - 💡 3/8 - Sistemas de Informação, Unisul - Pedra Branca
-- 🖥️ Estudando
-- Sou Desenvolvedor Front-End - Essentia. 
+- 🖥️ Front-End Developer | HTML | CSS | JavaScript
 ##
  
 <div>
