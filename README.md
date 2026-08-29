@@ -1,6 +1,6 @@
 ## Olá! Eu sou Adrian Hermes
 
-- 💡 3/8 - Sistemas de Informação, Unisul - Pedra Branca
+- 💡 4/8 - Sistemas de Informação, Unisul - Pedra Branca
 - 🖥️ Front-End Developer | HTML | CSS | JavaScript
 ##
  
