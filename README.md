@@ -1,74 +1,41 @@
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         HEADER                                 -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+<!-- ===================================================== -->
+<!--                  ADRIAN HERMES                         -->
+<!-- ===================================================== -->
 
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:050505,50:0B252B,100:123F46&text=Adrian%20Hermes%20de%20Souza&fontColor=FFFFFF&fontSize=38&fontAlignY=38&desc=Front-End%20Developer&descAlignY=58&descSize=18&animation=fadeIn" width="100%"/>
+  <!-- Banner -->
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:050505,50:0B1F3A,100:4A90E2&height=220&section=header&text=Adrian%20Hermes&fontSize=52&fontColor=FFFFFF&fontAlignY=38&desc=Front-End%20Developer&descAlignY=58&descSize=20&animation=fadeIn" width="100%"/>
+
+  <!-- Typing animation -->
+  <a href="https://github.com/Adrianhermes">
+    <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=3000&pause=1000&color=4A90E2&center=true&vCenter=true&width=600&lines=Front-End+Developer;HTML+%7C+CSS+%7C+JavaScript;Construindo+experi%C3%AAncias+para+a+web;Bem-vindo+ao+meu+GitHub+%E2%9C%A6" alt="Typing animation"/>
+  </a>
+</div>
 
 <br>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=4FA3A8&center=true&vCenter=true&width=550&lines=Front-End+Developer;HTML+%7C+CSS+%7C+JavaScript;Building+interfaces+with+code" alt="Typing SVG" />
-</a>
+<div align="center">
 
-<br><br>
-
-<a href="https://github.com/Adrianhermes" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="https://www.linkedin.com/in/adrian-hermes/" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/LinkedIn-0B252B?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://www.instagram.com/adrianhsouza/" style="text-decoration: none;">
-  <img src="https://img.shields.io/badge/Instagram-123F46?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adrianhermes)
+[![Gmail](https://img.shields.io/badge/Gmail-0B1F3A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adrianhermes11@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-164A7A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-hermes/)
+[![Instagram](https://img.shields.io/badge/Instagram-1E5A91?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adrianhsouza/)
 
 </div>
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                         ABOUT                                  -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
+Sou **Adrian Hermes de Souza**, Front-End Developer atualmente estudante de **Sistemas de Informação na Unisul — Pedra Branca**.
 
+Minha jornada na tecnologia começou pelo suporte e infraestrutura, onde desenvolvi uma base forte em resolução de problemas e atendimento. Hoje, meu foco está no desenvolvimento Front-End, criando páginas e interfaces com **HTML, CSS e JavaScript**.
 
-Sou **Adrian Hermes de Souza**, Front-End Developer com foco no desenvolvimento de interfaces utilizando **HTML, CSS e JavaScript**.
-
-Aqui no GitHub compartilho projetos voltados ao desenvolvimento web, explorando diferentes tipos de interfaces, páginas institucionais e aplicações.
-
-Meu objetivo é transformar ideias em interfaces funcionais, organizadas e visualmente consistentes.
+Gosto de transformar ideias e layouts em páginas funcionais, buscando sempre evoluir tanto na parte técnica quanto visual dos projetos.
 
 <br>
 
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                       TECHNOLOGIES                             -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
 <div align="center">
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" style="text-decoration: none;">
-  <img src="https://skillicons.dev/icons?i=html" height="30" alt="HTML"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" style="text-decoration: none;">
-  <img src="https://skillicons.dev/icons?i=css" height="30" alt="CSS"/>
-</a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" style="text-decoration: none;">
-  <img src="https://skillicons.dev/icons?i=javascript" height="30" alt="JavaScript"/>
-</a>
-
-</div>
-
-<!-- ═══════════════════════════════════════════════════════════════ -->
-<!--                           FOOTER                               -->
-<!-- ═══════════════════════════════════════════════════════════════ -->
-
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:123F46,50:0B252B,100:050505" width="100%"/>
-
-<br>
-
-### `Building ideas with code.`
+> **"Transformar uma ideia em algo que funciona também é uma forma de criar."**
 
 </div>
