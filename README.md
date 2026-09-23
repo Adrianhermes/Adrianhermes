@@ -17,7 +17,6 @@
 
 <div align="center">
 
-[![GitHub](https://img.shields.io/badge/GitHub-050505?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Adrianhermes)
 [![Gmail](https://img.shields.io/badge/Gmail-0B1F3A?style=for-the-badge&logo=gmail&logoColor=white)](mailto:adrianhermes11@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-164A7A?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adrian-hermes/)
 [![Instagram](https://img.shields.io/badge/Instagram-1E5A91?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adrianhsouza/)
